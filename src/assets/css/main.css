@@ -1,11 +1,15 @@
-body{
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #9581F4, #23a6d5, #23d5ab);
-    background-size: 400% 400%;
-    animation: gradient 2s ease infinite;
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
 }
 
-@keyframes gradient {
-    100%{
-        background-position: 100% 100%;
-    }
+/* SOCIAL */
+.spotify{
+    background-color: rgba(0, 0, 0, 0.229);
+
+    font-size: 20px;
+    width: 100px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 8px black;
 }
