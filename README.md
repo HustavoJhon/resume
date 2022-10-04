@@ -1,7 +1,5 @@
-### **portfolio**
+### **resume**
 
 ---
 
-#### *gallery*
-
-![gallery](doc/portfolio.png)
+<!-- ![gallery](doc/portfolio.png) -->
