@@ -1,9 +1,21 @@
+@font-face {
+    font-family: Poppins;
+    src: url('/src/assets/fonts/Poppins/Poppins-Regular.ttf') format('truetype');
+
+    font-family: HackNF;
+    src: url(/src/assets/fonts/HackNF/Hack-Regular-Nerd-Font-Complete.ttf)
+
+}
+
 * {
     margin: 0;
     padding: 0;
 }
-body{
-    background-color: aquamarine;
+
+body {
+    font-size: 24%;
+    font-weight: 900;
+    font-family: HackNF;
 }
 
 img.avatar {
@@ -14,6 +26,9 @@ img.avatar {
     align-items: center;
 }
 
-.link{
-    width: 20px;
+h1 {
+    font-family: Poppins;
+}
+p {
+    font-family: HackNF;
 }
