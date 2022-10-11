@@ -1,9 +1,9 @@
 @font-face {
     font-family: Poppins;
-    src: url('/src/assets/fonts/Poppins/Poppins-Regular.ttf') format('truetype');
+    src: url('../fonts/Poppins/Poppins-Regular.ttf') format('truetype');
 
     font-family: HackNF;
-    src: url(/src/assets/fonts/HackNF/Hack-Regular-Nerd-Font-Complete.ttf)
+    src: url('../fonts/HackNF/Hack-Regular-Nerd-Font-Complete.ttf');
 
 }
 
@@ -16,6 +16,7 @@ body {
     font-size: 24%;
     font-weight: 900;
     font-family: HackNF;
+    font-size: 20px;
 }
 
 img.avatar {
