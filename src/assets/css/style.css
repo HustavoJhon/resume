@@ -19,6 +19,14 @@ body{
     background-color: #141B1E;
 }
 
+header {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: table;
+    margin-top: 10px;
+}
+
 nav{
     background-color: #192023;
     display: flex;
@@ -28,11 +36,11 @@ nav{
     padding: 0px 10px;
     margin: 50px;
     border-radius: 10px;
-    position: absolute;
-    width: 650px;
+    /* position: absolute; */
+    /* width: 650px; */
     height: 40px;
-    left: 630px;
-    top: -40px;
+    /* left: 630px; */
+    /* top: -40px; */
 }
 
 nav:hover{
