@@ -77,7 +77,7 @@ nav .nav-link a {
     display: flex;
     border-radius: 10px;
     width: 480px;
-    height: 50px;
+    height: 200px;
     display: block;
     margin: 0px auto;
 }
@@ -85,6 +85,28 @@ nav .nav-link a {
 .hi p{
     color: #fff;
     text-align: center;
-    font-size: 25px;
+    font-size: 15px;
     padding: 5px;
+    text-align: justify;
+    margin: 5px;
+    padding: 5px;
+}
+
+.media {
+    background-color: #192023;
+    display: flex;
+    border-radius: 5px;
+    width: 200px;
+    height: 40px;
+    display: block;
+    margin: 10px auto;
+}
+
+.media img{
+    width: 20px;
+    margin: 10px 2px;
+}
+
+.media .nameimg {
+    width: 100px;
 }
