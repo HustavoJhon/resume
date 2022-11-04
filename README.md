@@ -3,7 +3,7 @@
 <div align="center">
 
 ```ocaml
-NEVER SKIP / IGNORE / AVOID README
+HOME / ABOUT / PORTFOLIO
 ```
 
 ```css
