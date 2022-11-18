@@ -17,7 +17,7 @@
 
 body{
     background-color: #141B1E;
-    font-family: HackNF;
+    font-family: Poppins;
 }
 header {
     margin-left: auto;
@@ -110,4 +110,8 @@ nav .nav-link a {
 
 .media .nameimg {
     width: 100px;
+}
+
+a {
+    text-decoration: none;
 }
