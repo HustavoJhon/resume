@@ -123,8 +123,8 @@ a {
 }
 
 .typing-effect {
-    width: 5ch;
-    animation: typing 2s steps(5), effect .5s step-end infinite alternate;
+    width: 155ch;
+    animation: typing 2s steps(155), effect .55s step-end infinite alternate;
     white-space: nowrap;
     overflow: hidden;
     border-right: 3px solid;
